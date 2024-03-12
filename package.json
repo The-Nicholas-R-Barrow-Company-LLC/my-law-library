@@ -1,0 +1,9 @@
+{
+  "name": "my-law-library",
+  "version": "0.0.1",
+  "scripts": {
+    "cd": "supabase db diff --schema extensions,public,vault,auth -f diff"
+  },
+  "author": "",
+  "license": "MIT"
+}
